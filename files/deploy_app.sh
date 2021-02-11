@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s Day 2 of the TFC workshop.
+  Welcome to ${PREFIX}'s This workshop is super fun.
   <!-- END -->
 
   </div>
